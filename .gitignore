@@ -1,0 +1,13 @@
+# Compiled class directories & temporary files
+classes/
+build_tmp/
+*.tmp
+*.bak
+*.log
+
+# IDE metadata
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
